@@ -11,14 +11,17 @@ This repository is divided by days. Each day contains the files you will need to
 
 # Folders
 
-## Day One
+## Day 1
 
-- [Lecture Notes](https://github.com/basaldella/isd2018/blob/master/Day%20One/Lecture_Notes_DRAFT.pdf): **DRAFT** version of the lecture notes of the first two days, by Linda Anticoli
+- [Lecture Notes](https://github.com/basaldella/isd2018/blob/master/Day%201/Lecture_Notes_DRAFT.pdf): **DRAFT** version of the lecture notes of the first two days, by Linda Anticoli
 
-## Day Two
-- [ER Exercises and Solutions](https://github.com/basaldella/isd2018/blob/master/Day%20Two/ER%20Exercises.pdf)
-- [SQL Slides](https://github.com/basaldella/isd2018/blob/master/Day%20Two/Day%20Two.pdf)
-- [SQL Code](https://github.com/basaldella/isd2018/blob/master/Day%20Two/Day%20Two.sql): contains the database you will use on the first day. You have to copy the file contents in MySQL Workbench and run it.
+## Day 2
+- [ER Exercises and Solutions](https://github.com/basaldella/isd2018/blob/master/Day%202/ER%20Exercises.pdf)
+- [SQL Slides](https://github.com/basaldella/isd2018/blob/master/Day%202/Day%20Two.pdf)
+- [SQL Code](https://github.com/basaldella/isd2018/blob/master/Day%202/Day%20Two.sql): contains the database you will use on the first day. You have to copy the file contents in MySQL Workbench and run it.
 - [SQL Solutions](#): I will upload them at the end of the lesson :)
 
-- Afternoon: see the Lecture notes from Day One
+- **Afternoon**: see the Lecture notes from Day One
+
+## Day 3
+- [Slides](https://github.com/basaldella/isd2018/blob/master/Day%203/Day%20Three.pdf)
