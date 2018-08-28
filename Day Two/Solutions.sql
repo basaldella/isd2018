@@ -51,25 +51,25 @@ ORDER BY COUNT(editor) DESC;
 SELECT *
 FROM Authors
 WHERE author_id NOT IN (
-	SELECT author_id
+    SELECT author_id
     FROM Authorship
-	) 
+    ) 
     AND
     author_id NOT IN (
-	SELECT editor
+    SELECT editor
     FROM Books
-	) ;
+    ) ;
 
 /* 8 */
 SELECT *
 FROM Authors
 WHERE author_id IN (
-	SELECT author_id
+    SELECT author_id
     FROM Authorship
-	) 
+    ) 
     AND
     author_id IN (
-	SELECT editor
+    SELECT editor
     FROM Books
-	) ;
+    ) ;
     
