@@ -7,6 +7,10 @@ Repository for the Introduction to Spatial Database 2018 Summer School
 
 # Folders
 
+## Day One
+
+- [Lecture Notes](https://github.com/basaldella/isd2018/blob/master/Day%20One/Lecture_Notes_DRAFT.pdf): **DRAFT** version of the lecture notes of the first two days, by Linda Anticoli - click on the "Download" button above the preview to download the file
+
 ## Day Two
 - [Slides](https://github.com/basaldella/isd2018/blob/master/Day%20Two/Day%20Two.pdf) - click on the "Download" button above the preview to download the file
 - [SQL Code](https://github.com/basaldella/isd2018/blob/master/Day%20Two/Day%20Two.sql): contains the database you will use on the first day. You have to copy the file contents in MySQL Workbench and run it.
