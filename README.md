@@ -25,3 +25,5 @@ This repository is divided by days. Each day contains the files you will need to
 
 ## Day 3
 - [Slides](https://github.com/basaldella/isd2018/blob/master/Day%203/Day%20Three.pdf)
+- [Pizzeria Database](https://github.com/basaldella/isd2018/blob/master/Day%203/Pizzerias.sql)
+- [Pizzeria Solutions](https://github.com/basaldella/isd2018/blob/master/Day%203/Solutions_Pizzerias.sql)
