@@ -19,7 +19,7 @@ This repository is divided by days. Each day contains the files you will need to
 - [ER Exercises and Solutions](https://github.com/basaldella/isd2018/blob/master/Day%202/ER%20Exercises.pdf)
 - [SQL Slides](https://github.com/basaldella/isd2018/blob/master/Day%202/Day%20Two.pdf)
 - [SQL Code](https://github.com/basaldella/isd2018/blob/master/Day%202/Day%20Two.sql): contains the database you will use on the first day. You have to copy the file contents in MySQL Workbench and run it.
-- [SQL Solutions](#): I will upload them at the end of the lesson :)
+- [SQL Solutions](https://github.com/basaldella/isd2018/blob/master/Day%202/Solutions.sql)
 
 - **Afternoon**: see the Lecture notes from Day One
 
